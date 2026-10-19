@@ -31,7 +31,9 @@ Al-Dhabyani et al., “Dataset of breast ultrasound images,” *Data in Brief*, 
 
 DOI: https://doi.org/10.1016/j.dib.2019.104863
 
-The exact download source and license for the local BUSI copy should be verified from the actual source used. The dataset is not redistributed here.
+Official data-access page identified by the article: https://scholar.cu.edu.eg/?q=afahmy/pages/dataset
+
+The ScienceDirect record identifies the Data in Brief article as open access under CC BY 4.0. Raw BUSI files are not redistributed here; users should obtain them from the official source and follow its current terms.
 
 ### BUS-UCLM
 
