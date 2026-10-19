@@ -70,8 +70,14 @@ The committed split files and scripts are intended to make the protocol explicit
 
 ## Citation
 
-The manuscript citation and final author information will be added when the internal review version is finalized.
+If you use this code or protocol, cite the associated manuscript:
+
+> Direction-Aware Reliability Evaluation for Cross-Dataset Breast Ultrasound Lesion Segmentation. Manuscript under internal review, 2026.
+
+Repository URL: https://github.com/damoxie-sai/DirectionAwareReliabilityEvaluationforCrossDatasetBreastUltrasoundLesionSegmentation
+
+Final author information and the final publication citation will be added after internal review.
 
 ## License
 
-The license for original code in this repository is pending author confirmation. Dataset licenses remain separate and are governed by their respective source records.
+Original Paper4 code in this repository is released under the MIT License. Dataset licenses remain separate and are governed by their respective source records.
