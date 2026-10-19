@@ -1,0 +1,26 @@
+# Local datasets and derived data
+breast_seg/data/
+breast_seg/checkpoints/
+breast_seg/results/
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Model binaries and archives
+*.pt
+*.pth
+*.ckpt
+*.zip
+
+# Secrets and local configuration
+.env
+.env.*
+*.key
+*.pem
+
+# macOS
+.DS_Store
